@@ -1,2 +1,2 @@
 # Profile
-My portfolio website
+My portfolio page
